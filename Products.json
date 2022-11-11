@@ -1,0 +1,112 @@
+[
+  {
+    "Id": "ff2e4546-4cf8-49e0-8116-7bebe0fb67da",
+    "ProductName": "bottle",
+    "CategoryName": "PlasticItems",
+    "CategoryId": "7958a3b3-f044-445b-9b4c-adbb7b58cd26",
+    "Price": 70,
+    "AddedOn": "2022-11-11T00:00:00+05:30",
+    "IsInUse": true,
+    "AddedBy": "AKC Retailers"
+  },
+  {
+    "Id": "833ae552-fbdd-4055-923c-a7e88c2e6646",
+    "ProductName": "pens",
+    "CategoryName": "PlasticItems",
+    "CategoryId": "7958a3b3-f044-445b-9b4c-adbb7b58cd26",
+    "Price": 10,
+    "AddedOn": "2022-11-11T00:00:00+05:30",
+    "IsInUse": true,
+    "AddedBy": "Flair"
+  },
+  {
+    "Id": "fa3bd1d0-201e-47a4-adc6-b6545fe5111a",
+    "ProductName": "Oneplus",
+    "CategoryName": "Electronics",
+    "CategoryId": "bcf2aa48-f28e-447b-a62e-e4b90b3ebc87",
+    "Price": 35000,
+    "AddedOn": "2022-11-11T00:00:00+05:30",
+    "IsInUse": true,
+    "AddedBy": "Oppo"
+  },
+  {
+    "Id": "a15126ac-1054-419d-8676-1781190799a5",
+    "ProductName": "Iphone 14 Pro",
+    "CategoryName": "Electronics",
+    "CategoryId": "bcf2aa48-f28e-447b-a62e-e4b90b3ebc87",
+    "Price": 69999,
+    "AddedOn": "2022-11-11T00:00:00+05:30",
+    "IsInUse": true,
+    "AddedBy": "Apple Inc"
+  },
+  {
+    "Id": "8ac9de4f-a7bf-484b-84ff-86c22af9a7fa",
+    "ProductName": "shirt",
+    "CategoryName": "Clothes",
+    "CategoryId": "93550922-7d42-499a-97aa-c7965f73f1f0",
+    "Price": 999,
+    "AddedOn": "2022-11-11T00:00:00+05:30",
+    "IsInUse": true,
+    "AddedBy": "Allen solly"
+  },
+  {
+    "Id": "0141eaa4-515e-4e1e-b913-0d66d18ad7bf",
+    "ProductName": "Jeans",
+    "CategoryName": "Clothes",
+    "CategoryId": "93550922-7d42-499a-97aa-c7965f73f1f0",
+    "Price": 1499,
+    "AddedOn": "2022-11-11T00:00:00+05:30",
+    "IsInUse": true,
+    "AddedBy": "Levis"
+  },
+  {
+    "Id": "19d485a9-836b-450d-a659-c918dccef93a",
+    "ProductName": "Jeans",
+    "CategoryName": "Clothes",
+    "CategoryId": "93550922-7d42-499a-97aa-c7965f73f1f0",
+    "Price": 1999,
+    "AddedOn": "2022-11-11T00:00:00+05:30",
+    "IsInUse": true,
+    "AddedBy": "Lee Cooper"
+  },
+  {
+    "Id": "fd6d0d92-c255-4764-ab01-ac1114ecb110",
+    "ProductName": "Chocolate",
+    "CategoryName": "Essentials",
+    "CategoryId": "bb34ad12-559e-49cd-b528-ceeea5090143",
+    "Price": 100,
+    "AddedOn": "2022-11-11T00:00:00+05:30",
+    "IsInUse": true,
+    "AddedBy": "Cadbury"
+  },
+  {
+    "Id": "02906c60-6f93-4b8f-b640-0fdc46830a87",
+    "ProductName": "Washing Powder",
+    "CategoryName": "Essentials",
+    "CategoryId": "bb34ad12-559e-49cd-b528-ceeea5090143",
+    "Price": 250,
+    "AddedOn": "2022-11-11T00:00:00+05:30",
+    "IsInUse": true,
+    "AddedBy": "Surf excel"
+  },
+  {
+    "Id": "6bc187f7-a77e-49c8-9c70-8b6db506e64a",
+    "ProductName": "Samsung",
+    "CategoryName": "Electronics",
+    "CategoryId": "bcf2aa48-f28e-447b-a62e-e4b90b3ebc87",
+    "Price": 30000,
+    "AddedOn": "2022-11-11T00:00:00+05:30",
+    "IsInUse": true,
+    "AddedBy": "Samsung Inc"
+  },
+  {
+    "Id": "be1bd5c9-21f1-4b1f-9d64-521562a1dd5b",
+    "ProductName": "jgdhweag",
+    "CategoryName": "ugysadhg",
+    "CategoryId": "new Category",
+    "Price": 7236,
+    "AddedOn": "2022-11-11T00:00:00+05:30",
+    "IsInUse": true,
+    "AddedBy": "hvdshgvc"
+  }
+]

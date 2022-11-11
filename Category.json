@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "bcf2aa48-f28e-447b-a62e-e4b90b3ebc87",
+    "CategoryName": "Electronics",
+    "AddedOn": "2022-11-11T00:00:00+05:30",
+    "AddedBy": "12345678"
+  },
+  {
+    "Id": "93550922-7d42-499a-97aa-c7965f73f1f0",
+    "CategoryName": "Clothes",
+    "AddedOn": "2022-11-11T00:00:00+05:30",
+    "AddedBy": "34567891"
+  },
+  {
+    "Id": "bb34ad12-559e-49cd-b528-ceeea5090143",
+    "CategoryName": "Essentials",
+    "AddedOn": "2022-11-11T00:00:00+05:30",
+    "AddedBy": "23456789"
+  },
+  {
+    "Id": "7958a3b3-f044-445b-9b4c-adbb7b58cd26",
+    "CategoryName": "PlasticItems",
+    "AddedOn": "2022-11-11T00:00:00+05:30",
+    "AddedBy": "45678912"
+  }
+]
